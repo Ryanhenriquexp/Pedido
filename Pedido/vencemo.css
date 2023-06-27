@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700");
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+
+*{
+  box-sizing:border-box;
+  font-family: "Abel", "Lato", san-serif;
+  font-size: 16px;
+  background-color:cyan;
+}
+
+body{
+  margin: 0;
+}
+
+h1{
+  font-size: 36px;
+  text-align: center
+}
+
+body{
+  text-align: center;
+}
+
+.barra-navegacao{
+  z-index: 1;
+  display: flex;
+  align-items:center;
+}
